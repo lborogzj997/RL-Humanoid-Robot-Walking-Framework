@@ -2,8 +2,5 @@
 A complete framework for training humanoid robots to walk using Reinforcement Learning in Isaac Gym. This project covers the full pipeline from simulation training to real-world deployment.
 <img width="1602" height="636" alt="Screenshot from 2026-01-20 11-12-59" src="https://github.com/user-attachments/assets/73dc1ba5-e790-4f3b-b1e0-28b2c1dffe6d" />
 
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
 
-
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://github.com/lborogzj997/RL-Humanoid-Robot-Walking-Framework/blob/main/demo/demo_video.mp4)
-
-demo/demo_video.mp4
