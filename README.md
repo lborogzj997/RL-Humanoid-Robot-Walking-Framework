@@ -4,3 +4,6 @@ A complete framework for training humanoid robots to walk using Reinforcement Le
 
 
 
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://github.com/lborogzj997/RL-Humanoid-Robot-Walking-Framework/blob/main/demo/demo_video.mp4)
+
+demo/demo_video.mp4
